@@ -245,6 +245,7 @@ footer .copy{
 }
 .credit{
     opacity: 70%;
+    font-size: 12px;
 }
 .credit a{
     color: white;
@@ -342,6 +343,7 @@ footer hr{
     }
     .text p{
         color: white;
+        font-size: 15px;
     }
     .text a{
         color: white;
